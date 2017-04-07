@@ -1,0 +1,36 @@
+{
+  "name": "links-fx",
+  "version": "1.0.0",
+  "description": "Effet du survol",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.4.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.5.0",
+    "gulp-util": "^3.0.8",
+    "node-sass": "^4.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyril-lamotte/links-fx.git"
+  },
+  "keywords": [
+    "css",
+    "hover",
+    "links"
+  ],
+  "author": "Cyril Lamotte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyril-lamotte/links-fx/issues"
+  },
+  "homepage": "https://github.com/cyril-lamotte/links-fx#readme"
+}
